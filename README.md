@@ -57,7 +57,7 @@ Requires After Effects 2024 or newer.
 ## Presets
 
 More than 150 ready-to-use graphs in 24 categories, plus 11 node groups to drop into your own graphs. Open them from the editor
-menu: **Presets…**.
+menu (**Presets…**)
 
 Basics · Motion · Motion Graphics · Text & Shapes · 3D · Backgrounds · Textures · Points & Instances · Particles ·
 3D Particles · Confetti · Holidays · Dissolve · Magic · Fire & Smoke · Fluid Simulation · Lasers · Audio · Interaction ·
