@@ -9,7 +9,7 @@ Get the latest installer from **[Releases](https://github.com/XavierChuu/MasterN
 | System | File |
 | --- | --- |
 | Windows 10/11 (64-bit) | `MasterNodes-<version>-win.exe` |
-| macOS | coming soon |
+| macOS 11 or newer (Apple silicon and Intel) | `MasterNodes-<version>-mac.pkg` |
 
 Requires After Effects 2024 or newer.
 
@@ -21,6 +21,17 @@ Requires After Effects 2024 or newer.
 
 To update, run the new installer the same way: your projects, presets and settings are kept.
 To uninstall: Windows **Settings > Apps > Installed apps > MasterNodes for After Effects**.
+
+## Install (macOS)
+
+1. Save your work and quit After Effects, Premiere Pro and Media Encoder.
+2. Open `MasterNodes-<version>-mac.pkg` and follow the installer; enter your Mac password when asked.
+   If macOS says the developer cannot be verified: right-click the file > **Open** > **Open**
+   (or **System Settings > Privacy & Security > Open Anyway**).
+3. Start After Effects, select a layer and choose **Effect > MasterNodes > MasterNodes**, then click **Edit Graph…**.
+
+To update, open the new installer the same way: your projects, presets and settings are kept.
+To uninstall: open **/Library/Application Support/MasterNodes** in Finder and double-click **Uninstall MasterNodes.command**.
 
 ## Updates
 

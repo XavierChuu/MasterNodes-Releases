@@ -6,6 +6,6 @@
     "First public beta."
   ],
   "windows": "https://github.com/XavierChuu/MasterNodes-Releases/releases/download/v1.0.0-beta.1/MasterNodes-1.0.0-beta.1-win.exe",
-  "mac": "",
+  "mac": "https://github.com/XavierChuu/MasterNodes-Releases/releases/download/v1.0.0-beta.1/MasterNodes-1.0.0-beta.1-mac.pkg",
   "page": "https://github.com/XavierChuu/MasterNodes-Releases/releases/tag/v1.0.0-beta.1"
 }
